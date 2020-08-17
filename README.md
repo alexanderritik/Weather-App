@@ -2,10 +2,19 @@
 
 
 #  Weather App (Clima)
+<p align="center">
+  <a href="https://github.com/alexanderritik/Destination">
+    <img src="https://github.com/alexanderritik/Weather-App/blob/master/Clima/Assets.xcassets/AppIcon.appiconset/1024.png" alt="Logo" width="80" height="80">
+  </a>
+  <p align="center">
+  It will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
+  </p>
+</p>
 
+<p align="center">
+<img src= "https://github.com/alexanderritik/Weather-App/blob/master/Screenshot%202020-08-18%20at%204.39.37%20AM.png" width="400" >
+</p>
 
-
-It will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
 ## Thing Learnt
 
