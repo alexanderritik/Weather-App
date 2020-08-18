@@ -24,7 +24,7 @@ struct WeatherManager {
     
     
 //     use https beacuse safe for networking
-    let weatherUrl="https://api.openweathermap.org/data/2.5/weather?units=metric&appid=760e294692bcf4845168c02182e3ac51"
+    let weatherUrl="https://api.openweathermap.org/data/2.5/weather?units=metric&appid=YOUR_API_KEY"
     
     func fetchweather(cityName:String){
         let urlString="\(weatherUrl)&q=\(cityName)"
